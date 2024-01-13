@@ -1,0 +1,15 @@
+Según los hash md5 proporcionados de los archivos originales
+se ha encontrado que:
+
+Los siguiente archivos no fueron modificados:
+-copia.sh
+-pass.txt
+-plan-A.txt
+-plan-B.txt
+-script.py
+
+El unico archivo que fue encontrado con una modificación fue:
+log.txt
+
+hash original: 0b29406e348cd5f17c2fd7b47b1012f9
+hash modificado: f2b0428b975452afbc641e46a042231b
